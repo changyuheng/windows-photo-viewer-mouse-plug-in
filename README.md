@@ -14,3 +14,10 @@ The aim of this simple program is let Windows Photo Viewer be easier to use.
 ### Auto-start ###
 
 Make a shortcut of the executable file at StartUp folder to start up automatically after booting.
+
+## License
+
+Except where otherwise noted, all parts of this software is licensed under the
+[MIT license](http://opensource.org/licenses/MIT).
+
+© 2015 Chang Yu-heng
